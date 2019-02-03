@@ -1,2 +1,2 @@
 # Thesis
-dataSets for theis
+dataSets for thesis
