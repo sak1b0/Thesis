@@ -1,1 +1,1 @@
-im working
+make sure to cd Thesis/
